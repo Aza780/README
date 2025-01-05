@@ -35,7 +35,7 @@
 
 <h2 align="center">📈 Top Using Languages 📈</h2>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarvdx&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AZA&layout=compact&theme=radical" alt="Top Languages" width="50%"/>
 </div>
 
 ---
